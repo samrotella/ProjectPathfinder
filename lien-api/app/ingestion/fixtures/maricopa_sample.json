@@ -1,0 +1,58 @@
+[
+  {
+    "recording_number": "20260158842",
+    "record_date": "03/06/2026",
+    "caption": "MECHANICS LIEN",
+    "grantor": "DESERT STEEL FABRICATORS LLC",
+    "grantee": "CANYON RIDGE HOMES INC",
+    "apn": "301-45-2210",
+    "legal": "LOT 18 BLK 2 CANYON RIDGE PARCEL 4 MCR 1455-22",
+    "amount": "$67,200.00",
+    "situs_address": "4521 W PINNACLE PEAK RD, PHOENIX, AZ 85083"
+  },
+  {
+    "recording_number": "20260161003",
+    "record_date": "03/12/2026",
+    "caption": "PRELIMINARY TWENTY DAY NOTICE",
+    "grantor": "VALLEY HVAC SUPPLY CO",
+    "grantee": "CANYON RIDGE HOMES INC",
+    "apn": "301-45-2210",
+    "legal": "LOT 18 BLK 2 CANYON RIDGE PARCEL 4 MCR 1455-22",
+    "amount": "",
+    "situs_address": "4521 W PINNACLE PEAK RD, PHOENIX, AZ 85083"
+  },
+  {
+    "recording_number": "20260166540",
+    "record_date": "03/24/2026",
+    "caption": "NOTICE OF COMPLETION",
+    "grantor": "CANYON RIDGE HOMES INC",
+    "grantee": "",
+    "apn": "301-45-2210",
+    "legal": "LOT 18 BLK 2 CANYON RIDGE PARCEL 4 MCR 1455-22",
+    "amount": "",
+    "situs_address": "4521 W PINNACLE PEAK RD, PHOENIX, AZ 85083"
+  },
+  {
+    "recording_number": "20260172118",
+    "record_date": "04/07/2026",
+    "caption": "RELEASE OF MECHANICS LIEN",
+    "grantor": "DESERT STEEL FABRICATORS LLC",
+    "grantee": "CANYON RIDGE HOMES INC",
+    "apn": "301-45-2210",
+    "legal": "LOT 18 BLK 2 CANYON RIDGE PARCEL 4 MCR 1455-22",
+    "amount": "$0.00",
+    "situs_address": "4521 W PINNACLE PEAK RD, PHOENIX, AZ 85083",
+    "references_recording_number": "20260158842"
+  },
+  {
+    "recording_number": "20260175329",
+    "record_date": "04/15/2026",
+    "caption": "MECHANICS LIEN",
+    "grantor": "SAGUARO CONCRETE & MASONRY INC",
+    "grantee": "MESA RETAIL HOLDINGS LLC",
+    "apn": "138-22-0091",
+    "legal": "PARCEL 3 MESA GATEWAY COMMERCE PARK MCR 1502-7",
+    "amount": "$154,880.00",
+    "situs_address": "6750 E RAY RD, MESA, AZ 85212"
+  }
+]
